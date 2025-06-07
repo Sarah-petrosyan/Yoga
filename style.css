@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --main-font:  "Roboto", sans-serif;
+    --primary-color: #E6C8C3;
+    --secondary-color: #9f9b9b;
+    --color-2:#D9D9D9;
+    --color-3:#474F5B;
+}
+
+body{
+    font-family: var(--main-font);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    border:1px solid;
+    padding:0 10px;
+}
+.container-fluid{
+    max-width: 1200px;
+    margin: auto;
+    padding:0 10px;
+    /*border:1px solid;*/
+}
+.container-3{
+    max-width:800px;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+    color: var(--color-3);
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:20px 0;
+}
+.p-1{
+    padding: 10px;
+}
+.py-1{
+    padding: 10px 0;
+}
+.py-2{
+    padding: 20px 0;
+}
+.px-1{
+    padding: 0 10px 0;
+}
+.px-2{
+    padding:0 20px 0;
+}
+.j-center{
+    justify-content: center;
+}
+.j-around{
+    justify-content: space-around;
+}
+.j-between{
+    justify-content: space-between;
+}
+.align-items-center{
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+
+.section-padding{
+    padding: 5px 0 20px;
+}
+
+.section-title{
+    font-size: 73px;
+    padding: 15px 0;
+}
+.section-text{
+    font-size: 20px;
+    padding: 15px 0;
+}
+.btn{
+    font-size: 20px;
+    background-color: var(--primary-color);
+    color: var(--color-3);
+    padding: 10px 25px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    border: none;
+    margin: 15px 0;
+}
+.bg-1{
+    background-image: url("./image/Untitled (1400 x 752 px).png");
+    background-size: cover;
+}
+.bg-2{
+    background-image: url("./image/Design.png");
+    background-size: contain;
+}
+.bg-3{
+    background: url("./image/Design (1).png");
+    background-size: cover;
+}
+.section-image{
+    width: 100%;
+}
+
+header{
+
+
+    img{
+        width: 92px;
+        height: 82px;
+    }
+
+    .row{
+        justify-content: space-between;
+    }
+}
+nav{
+    width: 73%;
+}
+.menu{
+
+
+    li{
+        list-style: none;
+
+        a{
+            font-size: 19px;
+            color: var(--color-3);
+        }
+    }
+}
+
+
+
+.sec-content{
+    width: 38%;
+}
+.sec-image{
+    width: 58%;
+}
+.card{
+    width:26%;
+    padding:10px 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px 0;
+
+    img{
+        width: 100%;
+    }
+}
+
+.mobile-menu{
+    display: none;
+}
+.box-padding{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:25px 0;
+}
+.yoga-section{
+    background-color: var(--secondary-color);
+    padding: 100px 0;
+text-align: center;
+}
+.yoga-list{
+    padding: 50px 0;
+
+}
+.yoga-item{
+    width:27%;
+    background-color:white;
+    text-align: center;
+    box-shadow: 35px 15px 64px 0px rgba(0,0,0,0.43);
+
+
+    img {
+        width: 100%;
+        object-fit: contain;
+    }
+}
+.yoga-training-section{
+    background-color: var(--primary-color);
+    padding: 100px 0;
+}
+.social-icons{
+
+    display: flex;
+    gap: 50px;
+
+    li{
+        list-style: none;
+    }
+}
+.my-section-training{
+
+
+    h2{
+        font-size: 65px;
+    }
+}
+.yoga-training-section{
+
+    img{
+        width: 90%;
+    }
+}
+.form-control{
+    width: 100%;
+    height: 40px;
+    margin: 19px 0;
+    padding: 10px;
+    background-color: var(--color-2);
+    border: 1px solid var(--secondary-color);
+}
+.area-control{
+    width: 100%;
+    min-height: 100px;
+    padding: 10px;
+    margin: 19px 0;
+    background-color: var(--color-2);
+    border: 1px solid var(--secondary-color);
+}
+.my-btn{
+    margin:30px auto;
+    display: block;
+
+}
+footer{
+    background-color: var(--color-3);
+    color: white;
+    padding: 55px 0;
+
+    a{
+        color: white;
+    }
+}
+.footer-list{
+
+}
+
+.footer-menu{
+
+    li{
+        list-style: none;
+        padding: 5px 0;
+
+        a{
+
+        }
+
+    }
+}

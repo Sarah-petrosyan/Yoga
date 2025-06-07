@@ -1,0 +1,69 @@
+@media (max-width: 1260px) {
+
+}
+@media (max-width: 1000px) {
+
+}
+
+@media (max-width: 800px) {
+    .sec-image{
+        width: 50%;
+    }
+    .sec-content{
+        width:100%;
+    }
+    .sec-image{
+        width: 100%;
+        margin: 0 3px;
+    }
+    .card{
+        width: 32%;
+    }
+    .yoga-item{
+        width: 32%;
+    }
+}
+@media (max-width: 660px) {
+    .bg-1,.bg-2,.bg-3{
+        background-size: contain;
+    }
+    .box-padding{
+        padding: 20px;
+    }
+    nav{
+        display: none;
+    }
+    .mobile-menu{
+        display: block;
+        font-size:30px;
+        padding:10px;
+
+    }
+.footer-list{
+    width: 49%;
+}
+    .card {
+        width: 46%;
+    }
+    .yoga-item{
+        width: 46%;
+    }
+
+}
+@media (max-width: 500px) {
+    .card {
+        width: 100%;
+    }
+    .yoga-item{
+        width: 100%;
+    }
+}
+@media (max-width: 410px) {
+.footer-list{
+    width: 80%;
+}
+
+}
+@media (max-width: 250px) {
+
+}
