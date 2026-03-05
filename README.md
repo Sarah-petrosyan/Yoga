@@ -12,16 +12,30 @@
 
 ## What is Yoga?
 
-**Yoga** is a stylish, fully responsive landing page created with just HTML and CSS—no JavaScript or frameworks involved. The project demonstrates how you can achieve a modern, attractive, and adaptive website using only pure CSS.  
-It’s a great reference for beginners or anyone interested in clean CSS design.
+Yoga is a stylish and fully responsive landing page created using only **HTML and CSS**, without JavaScript or external frameworks.  
+The project demonstrates how modern layouts and responsive designs can be achieved with clean CSS styling.
 
----
+It serves as a good practice project for learning **layout structure, styling, and responsive design**.
+
+
+## Features
+
+- Fully responsive design for desktop, tablet, and mobile
+- Clean and modern landing page layout
+- Built entirely with HTML and pure CSS
+- No JavaScript or frameworks used
+- Organized page structure with multiple sections
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
 
 ## Demo Screenshot
 
 ![Yoga Desktop Demo](./img.jpg "Desktop Demo")
 
----
 
 ## Prerequisites
 
