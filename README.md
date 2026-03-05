@@ -26,11 +26,6 @@ This project was built to practice **front-end development fundamentals**, inclu
 
 ---
 
-## Demo Screenshot
-
-![Desktop Demo](./main-webstie-photo.jpg "Desktop Demo")
-
----
 
 ## Getting Started
 
