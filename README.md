@@ -2,7 +2,7 @@
 
 # Yoga
 
-**A responsive web page built entirely with pure CSS.**
+**A modern and responsive website designed for a yoga and wellness brand.**
 
 [**➥ Live Demo**](https://sarah-petrosyan.github.io/Yoga/)
 
@@ -10,44 +10,32 @@
 
 ---
 
-## What is Yoga?
+## About the Project
 
-Yoga is a stylish and fully responsive landing page created using only **HTML and CSS**, without JavaScript or external frameworks.  
-The project demonstrates how modern layouts and responsive designs can be achieved with clean CSS styling.
+This project is a clean and responsive website designed for a **yoga and wellness brand**.  
+The page features a strong landing section along with structured areas that highlight yoga practices, wellness themes, and the overall experience of a modern yoga studio.
 
-It serves as a good practice project for learning **layout structure, styling, and responsive design**.
+The layout focuses on **clarity, balance, and a calm visual design**, reflecting the aesthetic and atmosphere commonly associated with yoga and wellness websites.
 
+This project was built to practice **front-end development fundamentals**, including layout design, responsive structure, and modern CSS styling.
 
-## Features
-
-- Fully responsive design for desktop, tablet, and mobile
-- Clean and modern landing page layout
-- Built entirely with HTML and pure CSS
-- No JavaScript or frameworks used
-- Organized page structure with multiple sections
-
-## Technologies Used
-
-- HTML5
-- CSS3
-
-
-## Demo Screenshot
-
-![Yoga Desktop Demo](./img.jpg "Desktop Demo")
-
-
-## Prerequisites
-
-Before you begin, make sure you have [Git](https://git-scm.com/downloads) installed on your computer.
+✅ Built with **HTML & CSS**  
+✅ Fully responsive layout  
+✅ Clean UI inspired by modern wellness websites  
+✅ Beginner-friendly front-end project
 
 ---
 
-## Run Locally
+## Demo Screenshot
 
-To clone and run **Yoga** locally, open your terminal or Git Bash and use the following commands:
+![Desktop Demo](./main-webstie-photo.jpg "Desktop Demo")
 
-**Linux / macOS:**
+---
+
+## Getting Started
+
+Make sure you have [Git](https://git-scm.com/downloads) installed. Then run:
 
 ```bash
-sudo git clone https://github.com/Sarah-petrosyan/Yoga.git
+git clone https://github.com/Sarah-petrosyan/Yoga.git
+```
